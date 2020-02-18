@@ -2,6 +2,8 @@
 
 Example project that uses Doxygen, Makefile, Catch2, Travis CI.
 
+This repo is also used for students to practice pull requests 
+
 This is a simple project that contain some of the tools used in the class. For example,
 
 - .gitignore
@@ -22,3 +24,4 @@ Some of commit message in this repository are following the Commitizen conventio
 The `fib` example contains configuration of Doxygen (`fib/Doxygfile`) and Netlify (`netlify.toml`)
 that automatically build doxygen (using `cd fib && make doc`), and publish the generated document
 to [https://ou-cs3560-f19-examples.netlify.com/](https://ou-cs3560-f19-examples.netlify.com/).
+
