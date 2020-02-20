@@ -5,7 +5,10 @@
 #include <iostream>
 
 #include "fib.h"
-
+/**
+ * @brief main function drives program execution 
+ * @return EXIT_SUCCESS on completion of program 
+*/
 int main() {
     int n;
     std::cout << "Please enter n: ";
